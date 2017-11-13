@@ -3,6 +3,8 @@
 Created on Sun Nov 12 19:11:43 2017
 
 @author: Akhilesh
+
+Getting Stock Price Data
 """
 
 import datetime as dt

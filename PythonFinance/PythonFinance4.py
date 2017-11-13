@@ -3,6 +3,9 @@
 Created on Mon Nov 13 10:33:42 2017
 
 @author: Akhilesh
+
+More stock manipulations
+
 """
 
 #import datetime as dt
